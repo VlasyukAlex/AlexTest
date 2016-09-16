@@ -15,8 +15,10 @@ Scenario:
 When in this story background hasn't given keyword
 
 @SC_792398470
-Scenario: 
+Scenario: Who did u call nigga?!!1
+Given 123
 When in this story background hasn't given keyword
+Then somthng
 
 @Critical @Test_1 @SC_97189917
 Scenario: What r u looking at? mm? MMMMMM?!!!111oneone
