@@ -24,7 +24,7 @@ Given this scenario must started from given keyword
 Then gherkin parser must be ok with parsing
 
 @Medium @Test_2 @SC_521580252
-Scenario Outline: Check another scenario
+Scenario Outline: Check another scenario with ET. Love ET. ET is da bezd
 Given this scenario must started from given keyword
 Then gherkin parser must be ok with parsing <two> <three> <one>
 
