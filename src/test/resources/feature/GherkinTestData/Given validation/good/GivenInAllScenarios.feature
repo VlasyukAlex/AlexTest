@@ -30,6 +30,8 @@ Then gherkin parser must be ok with parsing <two> <three> <one>
 
 Examples: 
 |one|two|three|
-||||
-
+|one|2|3|
+|one|two|3|
+|1|two|three|
+|1|2|three|
 
