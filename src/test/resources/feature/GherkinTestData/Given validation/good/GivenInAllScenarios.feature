@@ -19,7 +19,7 @@ Scenario:
 When in this story background hasn't given keyword
 
 @Critical @Test_1 @SC_97189917
-Scenario: Check scenario
+Scenario: What r u looking at? mm? MMMMMM?!!!111oneone
 Given this scenario must started from given keyword
 Then gherkin parser must be ok with parsing
 
