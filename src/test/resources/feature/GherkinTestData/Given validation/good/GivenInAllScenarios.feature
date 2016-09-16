@@ -62,7 +62,7 @@ When qwe
 Then rty
 
 @SC_941534976
-Scenario: Moooar!!
+Scenario: And moooar!!
 Given 123
 When qwe
 Then rty
