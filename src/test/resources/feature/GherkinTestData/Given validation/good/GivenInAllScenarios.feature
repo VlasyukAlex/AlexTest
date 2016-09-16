@@ -38,7 +38,7 @@ Examples:
 |1|2|three|
 
 @SC_881610108
-Scenario: More scenario
+Scenario: More narkomanskiy scenario
 Given 123
 When qwe
 Then rty
