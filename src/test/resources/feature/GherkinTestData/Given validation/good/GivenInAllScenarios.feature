@@ -42,7 +42,7 @@ When qwe
 Then rty
 
 @SC_952724621
-Scenario: And more
+Scenario: Raasstrelyat' !!!11
 Given 123
 When qwe
 Then rty
