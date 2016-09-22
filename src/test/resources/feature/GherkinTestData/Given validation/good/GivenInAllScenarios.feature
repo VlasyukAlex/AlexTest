@@ -37,6 +37,7 @@ Examples:
 |1|two|three|
 |1|2|three|
 
+
 @SC_881610108
 Scenario: More narkomanskiy scenario
 Given 123
