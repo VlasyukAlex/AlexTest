@@ -33,3 +33,9 @@ In mea tibique appetere perfecto, in iudico maluisset maiestatis usu. Augue disc
 Given I created scenario
 Then I see it in Relime
 
+@fourth_scenario_tag @SC_526230120
+Scenario: Fourth scenario
+Some description
+Given I created scenario
+Then I see it in Relime
+
