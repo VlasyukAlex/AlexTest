@@ -1,4 +1,4 @@
-@ST_853971615 @tagtagtag @this_is_story_tag @new_changes
+@tagtagtag @this_is_story_tag @new_changes @ST_957014457
 Feature: Just feature for testing
 I want to see new description with new changes
 
@@ -6,7 +6,7 @@ Background:
 
 Given new changes
 
-@first_scenario_tag @SC_471199874
+@first_scenario_tag @SC_938663936
 Scenario: First scenario
 There is scenario description
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo.
@@ -17,13 +17,13 @@ Given I created scenario
 Then I see it in Relime
 And I add some changes
 
-@second_scenario_tag @SC_506022885
+@second_scenario_tag @SC_916271742
 Scenario: Second scenario
 Some description
 Given I created scenario
 Then I see it in Relime
 
-@third_scenario_tag @SC_531769618
+@third_scenario_tag @SC_901160003
 Scenario: Third scenario
 There is scenario description
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo.
@@ -33,13 +33,13 @@ In mea tibique appetere perfecto, in iudico maluisset maiestatis usu. Augue disc
 Given I created scenario
 Then I see it in Relime
 
-@fourth_scenario_tag @SC_526230120
+@fourth_scenario_tag @SC_901906572
 Scenario: Fourth scenario
 Some description
 Given I created scenario
 Then I see it in Relime
 
-@fifth_scenario_tag @SC_520445890
+@fifth_scenario_tag @SC_926766864
 Scenario Outline: Fifth scenario
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%
@@ -55,4 +55,5 @@ Examples:
 |dewie|2|62000.0|
 |mickey|3|35000.0|
 |stive|4|45000.0|
+
 
