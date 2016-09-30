@@ -1,4 +1,4 @@
-@Feature_customerListFeature @sameTag @ST_250118404
+@Feature_customerListFeature @sameTag @ST_476482749
 Feature: Customer list table
 
 @High @Search @sameTag @CustomerList @SC_176067499
