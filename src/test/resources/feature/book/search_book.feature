@@ -6,15 +6,15 @@ Background:
 
 And today is 2015-11-18
 
-@SC_266107095
-Scenario: 
-Given a $100 microwave was sold on 2015-11-03
-And today is 2015-11-18
-
 @SC_248359961
 Scenario: 
 Given a $100 microwave was sold on 2015-11-03
 And today is 2016-06-21
+
+@SC_266107095
+Scenario: 
+Given a $100 microwave was sold on 2015-11-03
+And today is 2015-11-18
 
 @SC_305755862
 Scenario: Check update from GIT

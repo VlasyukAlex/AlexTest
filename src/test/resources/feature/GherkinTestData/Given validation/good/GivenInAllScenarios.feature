@@ -6,15 +6,11 @@ Background:
 
 When in this story background hasn't given keyword
 
-@SC_299614664
-Scenario: 
-When in this story background hasn't given keyword
-
-@SC_270221511
-Scenario: 
-When in this story background hasn't given keyword
-
 @SC_241807981
+Scenario: 
+When in this story background hasn't given keyword
+
+@SC_299614664
 Scenario: 
 When in this story background hasn't given keyword
 
@@ -32,4 +28,8 @@ Examples:
 |one|two|three|
 ||||
 
+
+@SC_270221511
+Scenario: 
+When in this story background hasn't given keyword
 
