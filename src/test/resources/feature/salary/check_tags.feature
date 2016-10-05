@@ -9,7 +9,7 @@ And I press 'Next Page' button
 Then I see value '2' in page text field
 And columns values have changed
 
-@High @sameTag @Search @CustomerList @SC_93470550
+@High @sameTag @CustomerList @Search @SC_93470550
 Scenario Outline: Search
 Given I`m on a homepage
 When I enter in a text field called 'Enter search text' following text "<value>"
