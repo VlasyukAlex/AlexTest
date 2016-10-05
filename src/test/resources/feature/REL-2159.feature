@@ -12,3 +12,9 @@ Some description
 Given I created scenario
 Then I see it in Relime
 
+@second_scenario_tag @SC_187372538
+Scenario: Second scenario
+Some description
+Given I created scenario
+Then I see it in Relime
+
