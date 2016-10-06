@@ -1,4 +1,4 @@
-@tagtagtag @this_is_story_tag @new_changes @ST_224373913
+@tagtagtag @this_is_story_tag @new_changes @ST_730578365
 Feature: Just feature for testing
 I want to see new description with new changes
 
@@ -6,19 +6,19 @@ Background:
 
 Given new changes
 
-@fourth_scenario_tag @SC_222575295
+@fourth_scenario_tag @SC_677227198
 Scenario: Fourth scenario
 Some description
 Given I created scenario
 Then I see it in Relime
 
-@second_scenario_tag @SC_187372538
+@second_scenario_tag @SC_752982418
 Scenario: Second scenario
 Some description
 Given I created scenario
 Then I see it in Relime
 
-@fifth_scenario_tag @SC_165162893
+@fifth_scenario_tag @SC_756129723
 Scenario Outline: Fifth scenario
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%
@@ -35,7 +35,8 @@ Examples:
 |mickey|3|35000.0|
 |stive|4|45000.0|
 
-@third_scenario_tag @SC_145779509
+
+@third_scenario_tag @SC_700949998
 Scenario: Third scenario
 There is scenario description
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo.
@@ -45,7 +46,7 @@ In mea tibique appetere perfecto, in iudico maluisset maiestatis usu. Augue disc
 Given I created scenario
 Then I see it in Relime
 
-@first_scenario_tag @SC_158760751
+@first_scenario_tag @SC_721685019
 Scenario: First scenario
 There is scenario description
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo.
